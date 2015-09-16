@@ -27,3 +27,5 @@ the function returns a list of data frames:
 	grouping
 	anonymized.value
 *vars: a mapping of the original and the anonymized variable names
+
+the file contains an example dataset called exReplaceData and example use cases at the end of the file.
